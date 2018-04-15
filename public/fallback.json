@@ -1,0 +1,10 @@
+{
+  "articles": [
+    {
+      "title": "It looks like you are offline :(",
+      "url": "",
+      "urlToImage": "/images/icons/icon-128x128.png",
+      "description": "Try loading the page again when you're online."
+    }
+  ]
+}
